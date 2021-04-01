@@ -189,3 +189,10 @@ Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o lin
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+## Autor
+
+Feito por Anderson Ramos 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramosanderson/)](https://www.linkedin.com/in/ramosanderson/)
+[![Gmail Badge](https://img.shields.io/badge/-anderson.ramlug@gmail.com-red?style=flat-square&link=mailto:mailto:anderson.ramlug@gmail.com)](mailto:anderson.ramlug@gmail.com)
